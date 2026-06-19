@@ -1,0 +1,20 @@
+# virtual environment
+.venv/
+venv/
+env/
+ENV/
+myenv/
+
+# python caches
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# secrets
+.env
+
+# scraped data
+data/
+*.csv
+*.parquet
+*.json
